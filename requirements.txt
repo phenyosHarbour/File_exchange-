@@ -1,0 +1,10 @@
+# List of Python dependencies.
+# Run `pip install -r requirements.txt` to install them.
+
+PyQt6
+pdf2docx
+PyMuPDF
+python-docx
+pytesseract
+Pillow
+docx2pdf
